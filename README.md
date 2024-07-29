@@ -12,7 +12,7 @@ The Smart Eye Prescription Device is an innovative, simplified approach to estim
 - Compact and portable design
 
 ## Schematic 
-!(Schematic)(images/image.png)
+!(Schematic)(https://github.com/DreadPirate07/simple-eye-prescription-system/blob/main/image.png)
 
 ## Hardware Requirements
 
